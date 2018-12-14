@@ -17,9 +17,11 @@ python3 -m pip install metis
 ```
 
 ## Input File
-[node id1] [node id2] [weight]
-ex) 1 2 5
+[node id1] [node id2] [weight]  
+```
+ex) 1 2 5  
 represent node 1 has an edge at node 2, its weight is 5.
+```
 
 ## Usage
 python3 metis.py [Input File] [node number] [partition number]
