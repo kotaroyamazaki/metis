@@ -1,5 +1,5 @@
 # METIS
-====
+
 # Overview
 METIS is a software package with vrious algorithms for dividing graphs.
 
@@ -24,4 +24,4 @@ represent node 1 has an edge at node 2, its weight is 5.
 ```
 
 ## Usage
-python3 metis.py [Input File] [node number] [partition number]
+python graph_partition_by_metis.py [Input File] [node number] [partition number]
